@@ -270,6 +270,10 @@ nav ul li a:hover::after{
     margin-right: 15px;
     font-size: 25px;
 }
+#mail{
+    color: white;
+    text-decoration: none;
+}
 .social-icons{
     margin-top: 30px;
 }
